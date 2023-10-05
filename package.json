@@ -1,0 +1,19 @@
+{
+  "name": "recipy",
+  "version": "1.0.0",
+  "description": "recipe loading application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nathphil9411/Lights-recipe.git"
+  },
+  "author": "Ezeanaka Nathaniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathphil9411/Lights-recipe/issues"
+  },
+  "homepage": "https://github.com/nathphil9411/Lights-recipe#readme"
+}
